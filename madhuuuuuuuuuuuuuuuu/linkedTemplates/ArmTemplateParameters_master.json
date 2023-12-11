@@ -5,14 +5,23 @@
 		"factoryName": {
 			"value": "madhuuuuuuuuuuuuuuuu"
 		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
 		"orders1_accountKey": {
 			"value": ""
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://saganga.dfs.core.windows.net/"
 		},
 		"HttpServer1_properties_typeProperties_url": {
 			"value": "https://raw.githubusercontent.com/kdw11042000/Ganga/main/orders.csv"
 		},
 		"orders1_properties_typeProperties_url": {
 			"value": "https://saganga.dfs.core.windows.net/"
+		},
+		"part_properties_typeProperties_url": {
+			"value": "https://github.com/kdw11042000/Ganga/blob/main/part.csv"
 		},
 		"containerUri": {
 			"value": ""
